@@ -1,3 +1,4 @@
-# Big Data a Machine Learning technologie v praxi - praktická část
+# Big Data a Machine Learning technologie v praxi
 
-Praktickou část zahájíte klikem na tento [notebook](https://colab.research.google.com/github/seznam/IT-akademie-bigdata/blob/master/notebooks/000_uvod.ipynb).
+- pro big-data část, prosím přejděte do adresáře [big-data](big-data)
+- pro machine-learning část, prosím přejděte do adresáře [machine-learning](machine-learning)
